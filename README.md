@@ -30,7 +30,7 @@
   </picture>
   <img width="250" style="border-radius:4px!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlOTJkOWVjNTEyNTA2NmZlZWIyMTE5MzU2YmJlMGE5NDU2MDJiYSZjdD1n/HeqLqmKFx6LjPWcBut/giphy.gif">
 </p>
-style="border-radius:4px!">
+
 <br />
 <details open> 
   <summary><h2>🛰️ Top Projects</h2></summary>
