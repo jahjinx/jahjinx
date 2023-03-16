@@ -3,10 +3,34 @@
 **`Software & Machine Learning Engineer`**
 
 <br />
+
+## 🧰 Top Languages and Tools
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+<br />
+<br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact&theme=codeSTACKr)](https://github.com/jahjinx/github-readme-stats)
-
+<p align="left">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact&theme=codeSTACKr"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact" />
+  </picture>
+  <img width="250" style="border-radius:4px!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlOTJkOWVjNTEyNTA2NmZlZWIyMTE5MzU2YmJlMGE5NDU2MDJiYSZjdD1n/HeqLqmKFx6LjPWcBut/giphy.gif">
+</p>
+style="border-radius:4px!">
 <br />
 <details open> 
   <summary><h2>🛰️ Top Projects</h2></summary>
@@ -26,6 +50,7 @@
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
+
   <p>
       <a href="https://github.com/search?q=user%3Ajahjinx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajahjinx+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
@@ -40,6 +65,7 @@
   </p>
 
   <h3>🏗️ Frameworks and Libraries</h3>
+
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"></a>
@@ -53,6 +79,7 @@
   </p>
 
   <h3>☁️ Databases and Cloud Hosting</h3>
+
   <p>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"></a>
       <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"></a>
@@ -60,7 +87,7 @@
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
   </p>
-  
+
   <h3>💻 Software and Tools</h3>
 
   <p>
