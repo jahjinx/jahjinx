@@ -5,7 +5,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact)](https://github.com/jahjinx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact&theme=codeSTACKr)](https://github.com/jahjinx/github-readme-stats)
 
 <br />
 <details open> 
@@ -21,7 +21,7 @@
 </details>
 
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
