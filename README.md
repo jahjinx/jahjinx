@@ -26,7 +26,6 @@
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="https://github.com/search?q=user%3Ajahjinx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Ajahjinx+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
@@ -42,7 +41,6 @@
   <br />
 
   <h3>🏗️ Frameworks and Libraries</h3>
-
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"></a>
@@ -57,7 +55,6 @@
   <br />
 
   <h3>☁️ Databases and Cloud Hosting</h3>
-
   <p>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"></a>
       <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white"></a>
