@@ -1,3 +1,7 @@
+img {
+  border-radius:4px!;
+}
+
 # 📛 My Name is Jarrad
 
 **`Software & Machine Learning Engineer`**
@@ -19,7 +23,7 @@
 <p align="left">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact&theme=codeSTACKr"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact&theme=codeSTACKr&border_color=cc613a"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -37,10 +41,10 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/jahjinx/LD_ITESD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=LD_ITESD&theme=codeSTACKr&show_icons=True" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/jahjinx/AI4EduRes-2023_FT-RoBERTa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=AI4EduRes-2023_FT-RoBERTa&theme=codeSTACKr&show_icons=True" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/jahjinx/ML_skipception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=ML_skipception&theme=codeSTACKr&show_icons=True" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/jahjinx/MLL_Library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=MLL_Library&theme=codeSTACKr&show_icons=True" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/jahjinx/LD_ITESD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=LD_ITESD&theme=codeSTACKr&show_icons=True&border_color=cc613a" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/jahjinx/AI4EduRes-2023_FT-RoBERTa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=AI4EduRes-2023_FT-RoBERTa&theme=codeSTACKr&show_icons=True&border_color=cc613a" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/jahjinx/ML_skipception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=ML_skipception&theme=codeSTACKr&show_icons=True&border_color=cc613a" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/jahjinx/MLL_Library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jahjinx&repo=MLL_Library&theme=codeSTACKr&show_icons=True&border_color=cc613a" alt="github-readme-streak-stats"></a>
   </p>
 </details>
 
