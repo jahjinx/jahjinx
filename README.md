@@ -38,7 +38,6 @@
       <a href="https://github.com/search?q=user%3Ajahjinx+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
 
   </p>
-  <br />
 
   <h3>🏗️ Frameworks and Libraries</h3>
   <p>
@@ -52,7 +51,6 @@
       <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"></a>
   </p>
-  <br />
 
   <h3>☁️ Databases and Cloud Hosting</h3>
   <p>
@@ -62,7 +60,7 @@
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
   </p>
-  <br />
+  
   <h3>💻 Software and Tools</h3>
 
   <p>
