@@ -1,24 +1,17 @@
-img {
-  border-radius:4px!;
-}
-
 # 📛 My Name is Jarrad
 
 **`Software & Machine Learning Engineer`**
 
 <br />
 
-## 🧰 Top Languages and Tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+## 🏆 Favorite Languages & Tools
 
-<br />
-<br />
-<br />
+<p>
+    <a href="https://github.com/search?q=user%3Ajahjinx+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
 
 <p align="left">
   <picture>
@@ -32,8 +25,11 @@ img {
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact" />
   </picture>
-  <img width="250" style="border-radius:4px!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlOTJkOWVjNTEyNTA2NmZlZWIyMTE5MzU2YmJlMGE5NDU2MDJiYSZjdD1n/HeqLqmKFx6LjPWcBut/giphy.gif">
+  <!-- <img width="250" style="border-radius:4px!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlOTJkOWVjNTEyNTA2NmZlZWIyMTE5MzU2YmJlMGE5NDU2MDJiYSZjdD1n/HeqLqmKFx6LjPWcBut/giphy.gif"> -->
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;redirect=true"><img width="500px" src="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=ec6f41&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
 </p>
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ec6f41&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&redirect=true) -->
 
 <br />
 <details open> 
@@ -53,7 +49,7 @@ img {
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 Programming & Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3Ajahjinx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
@@ -68,7 +64,7 @@ img {
 
   </p>
 
-  <h3>🏗️ Frameworks and Libraries</h3>
+  <h3>🏗️ Frameworks & Libraries</h3>
 
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
@@ -82,7 +78,7 @@ img {
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"></a>
   </p>
 
-  <h3>☁️ Databases and Cloud Hosting</h3>
+  <h3>☁️ Databases & Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"></a>
@@ -92,7 +88,7 @@ img {
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=flat-square&logo=sqlite&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 Software & Tools</h3>
 
   <p>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
@@ -104,5 +100,6 @@ img {
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+  </p>
 
 </details>
