@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact" />
   </picture>
   <!-- <img width="250" style="border-radius:4px!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlOTJkOWVjNTEyNTA2NmZlZWIyMTE5MzU2YmJlMGE5NDU2MDJiYSZjdD1n/HeqLqmKFx6LjPWcBut/giphy.gif"> -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;redirect=true"><img width="500px" src="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=ec6f41&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;redirect=true"><img width="525px" src="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=ec6f41&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
 </p>
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ec6f41&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&redirect=true) -->
