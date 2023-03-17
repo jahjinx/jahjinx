@@ -1,6 +1,37 @@
 # 📛 My Name is Jarrad
 
 **`Software & Machine Learning Engineer`**
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Human:
+
+    def __init__(self):
+        self.name = None
+        self.role = None
+        self.places_lived = []
+        self.language_spoken = ["en_US"]
+        self.job_searching = False
+        self.current_location = None
+
+    def introduce_self(self):
+        print((f"Hi! My name is {self.name}. I am a {self.role} that speaks {len(self.language_spoken)}"
+                f" langauges and have lived in {len(self.place_lived)} countries."))
+
+
+jarrad = Human()
+
+jarrad.name = "Jarrad Jinks"
+jarrad.role = "Software Engineer"
+jarrad.place_lived = ["United States", "Thailand", "Nepal", "South Korea", "Japan", "Colombia"]
+jarrad.language_spoken.append("ja_JP")
+jarrad.current_location = "Medellin, Colombia"
+
+jarrad.introduce_self()
+```
+
+\>>> Hi! My name is Jarrad Jinks. I am a Software Engineer that speaks 2 langauges and have lived in 6 countries.
 
 <br />
 
@@ -14,7 +45,7 @@
 </p>
 
 <p align="left">
-  <picture>
+  <picture width="50%">
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact&theme=codeSTACKr&border_color=cc613a"
     media="(prefers-color-scheme: dark)"
@@ -23,10 +54,10 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact" />
+  <img width="50%" style="max-width: 400px", src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahjinx&layout=compact" />
   </picture>
   <!-- <img width="250" style="border-radius:4px!" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJlOTJkOWVjNTEyNTA2NmZlZWIyMTE5MzU2YmJlMGE5NDU2MDJiYSZjdD1n/HeqLqmKFx6LjPWcBut/giphy.gif"> -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;redirect=true"><img width="520px" src="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=ec6f41&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;redirect=true"><img width="50%" style="max-width: 420px" src="https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=ec6f41&amp;bar_color_cover=false" alt="spotify-github-profile"></a>
 </p>
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ec6f41&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3134vzleob7mr2tm7ymmgrwy5fe4&redirect=true) -->
@@ -102,4 +133,5 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-</details>     
+</details>
+     
