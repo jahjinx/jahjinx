@@ -17,7 +17,7 @@ class Human:
 
     def introduce_self(self):
         print((f"Hi! My name is {self.name}. I am a {self.role} that speaks {len(self.language_spoken)}"
-                f" langauges and have lived in {len(self.place_lived)} countries."))
+               f" langauges and have lived in {len(self.place_lived)} countries."))
 
 
 jarrad = Human()
